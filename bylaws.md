@@ -4,26 +4,26 @@ Bylaws for the Numbayme Decentral Bank
 
 ***Bylaws***
 
-1. **Procedural Rules**
-   1. **Legal Compliance** 
-      1. The NDB board of governors will carry out research to determine the feasibility of compliance with and consent to [ULEX Law](https://github.com/ulex-opensource/Ulex), especially sections 2.5.3 and 2.5.4.
-      1. Further research will be done on this topic and the board of governors will move towards comprehension and compliance if it is determined to be a good path.
-      1. If communities in the area decide to branch ULEX, the NDB will strongly consider declaring compliance with and consent to the branch.
+1. **Procedural Rules** 
+   1. **Silver-Backed Certificates**
+      1. The NDB's primary purpose and activity shall be to issue and redeem silver-backed certificates (SBC) of various denominations.
+      1. The design, denominations, and security features shall be explained elsewhere in these bylaws, which may link to a “NDB Certificate Technical Sheet,”  to help users establish that their certificates are genuine, with additional private technical sheets to help NDB personnel create the certificates.
    4. **Board of Governors** 
       1. A board of 3 governors will maintain documents and ensure smooth operations.
       1. These governors will remain anonymous or eponymous to prevent unwanted intervention in bank operations, to meet our need for sovereignty and autonomy.
       1. The board of governors itself shall decide via majority vote to replace and appoint new governors as necessary.
-   5. **Silver-Backed Certificates**
-      1. The NDB's primary purpose and activity shall be to issue and redeem silver-backed certificates (SBC) of various denominations.
-      1. The design, denominations, and security features shall be explained elsewhere in these bylaws, which may link to a “NDB Certificate Technical Sheet,”  to help users establish that their certificates are genuine, with additional private technical sheets to help NDB personnel create the certificates.
+   1. **Legal Compliance** 
+      1. The NDB board of governors will carry out research to determine the feasibility of compliance with and consent to [ULEX Law](https://github.com/ulex-opensource/Ulex), especially sections 2.5.3 and 2.5.4.
+      1. Further research will be done on this topic and the board of governors will move towards comprehension and compliance if it is determined to be a good path.
+      1. If communities in the area decide to branch ULEX, the NDB will strongly consider declaring compliance with and consent to the branch.
    6. **Audits**
       1. An audit of physical silver holdings shall be done regularly by an independent community member.
       1. A Level 2 audit shall be done once per month
       1. A Level 1 audit shall be done once per year.
       1. The details of the audit processes shall be explained below in the appropriate section of these bylaws
    7. **Public Announcements**
-      1. The NDB will maintain a public channel on the Telegram app
-      1. The NDB will maintain an email address.
+      1. The NDB will maintain a public channel on the Telegram app: https://t.me/numbaymedb
+      1. The NDB will maintain an email address: numbaymedb@proton.me 
       1. Should these change for any reason, the surrounding community will be informed.
       1. The public channel will regularly announce equivalent fiat currency amounts for silver denominations on the certificates. This will make it easier to transact on a regular basis.
       1. The channel will also post the documents mentioned here, and announce any important changes.
