@@ -5,44 +5,44 @@ Bylaws for the Numbayme Decentral Bank
 ***Bylaws***
 
 1. **Procedural Rules**
-   1. **Legal Compliance**
-      1. The NDB board of governors will carry out research to determine the feasibility of compliance with and consent to [ULEX Law](https://github.com/ulex-opensource/Ulex), esecially sections 2.5.3 and 2.5.4.
+   1. **Legal Compliance** 
+      1. The NDB board of governors will carry out research to determine the feasibility of compliance with and consent to [ULEX Law](https://github.com/ulex-opensource/Ulex), especially sections 2.5.3 and 2.5.4.
       1. Further research will be done on this topic and the board of governors will move towards comprehension and compliance if it is determined to be a good path.
       1. If communities in the area decide to branch ULEX, the NDB will strongly consider declaring compliance with and consent to the branch.
-   1. **Board of Governors**
+   4. **Board of Governors** 
       1. A board of 3 governors will maintain documents and ensure smooth operations.
       1. These governors will remain anonymous or eponymous to prevent unwanted intervention in bank operations, to meet our need for sovereignty and autonomy.
       1. The board of governors itself shall decide via majority vote to replace and appoint new governors as necessary.
-   1. **Silver-Backed Certificates**
+   5. **Silver-Backed Certificates**
       1. The NDB shall issue silver-backed certificates (SBC) of various denominations.
       1. The design, denominations, and security features shall be explained elsewhere in these bylaws, which may link to a “NDB Certificate Technical Sheet,”  to help users establish that their certificates are genuine, with additional private technical sheets to help NDB personnel create the certificates.
-   1. **Audits**
+   6. **Audits**
       1. An audit of physical silver holdings shall be done regularly by an independent community member.
       1. A Level 2 audit shall be done once per month
       1. A Level 1 audit shall be done once per year.
       1. The details of the audit processes shall be explained below in the appropriate section of these bylaws
-   1. **Public Announcements**
+   7. **Public Announcements**
       1. The NDB will maintain a public channel on the Telegram app
       1. The NDB will maintain an email address.
       1. Should these change for any reason, the surrounding community will be informed.
       1. The public channel will regularly announce equivalent fiat currency amounts for silver denominations on the certificates. This will make it easier to transact on a regular basis.
       1. The channel will also post the documents mentioned here, and announce any important changes.
       1. The email can be used for inquiries from holders of silver certificates and other interested parties.
-   1. **Redemptions of Silver-backed Certificates (SBCs)**  
+   8. **Redemptions of Silver-backed Certificates (SBCs)**  
       1. When a certificate is redeemed, the holder will receive the full weight in silver, unless a fee is applicable and the holder chooses to have the fee deducted rather than paying it separately.
       1. Certain transactions may incur small fees to help cover DCB operational expenses. This will be detailed elsewhere in the bylaws.
       1. For ease of understanding fees, a separate document, titled “NDB Fee Schedule” will outline these policies in a reader-friendly way. This will be posted in the public channel.
       1. This fee schedule can be changed once in the first 6 month period after the official inception of the bank, once more in the 12 month period following, and after that can be changed only once every 2 years, and only with the unanimous approval of all members of the Board of Governors
-   1. **Bank Assets**
+   9. **Bank Assets**
       1. The bank may hold assets reasonable for its operation, such as a safe, stamps, administrative supplies, etc.
       1. The bank may receive a small loan to begin operations and from then on, it must earn revenue from transaction fees.
       1. The physical silver that the bank possesses, that is allocated as backing the issued certificates, will be recorded on its balance sheet as a liability
       1. The bank is obligated to return this allocated silver to certificate holders in case of a valid redemption request
-   1. **Exchange with fiat**
+   10. **Exchange with fiat**
       1. The Decentral Bank shall generally not engage in fiat currency transactions, with the primary exception being if it has silver on loan to be sold for fiat from a third party.
       1. If a client holds silver certificates and wishes to exchange them for USD, they can be exchanged with any willing third party for USD.
       1. If a client has silver and wishes to exchange with USD, the client can contact the Decentral Bank to see if there are any outstanding USD offers, otherwise the client can sell to any willing third party.
-   1. **Additional Regulations**
+   11. **Additional Regulations**
       1. The board of governors may change the bylaws with a majority vote.
       1. Any changes to the bylaws must not defy the underlying sentiment behind the Decentral Bank charter document, nor may they contradict the charter.
 1. **Substantive Rules**
