@@ -63,7 +63,7 @@ Bylaws for the Numbayme Decentral Bank
       1. The NDB accounting records must be printed no less than once every 60 days, with a hard copy kept in the silver vault.
       1. Small remainders, any amounts that cannot be redeemed or exchanged due to denomination issues, can be issued as an IOU to the client, who can be reimbursed once the appropriate amount of fiat or denomination of silver becomes available.
       1. Remainders of less than 0.5 grams will be disregarded.
-      1. Exchange of damaged certificates shall be carried out at no charge to the client. *See NDB Bylaws 2.7.1.*
+      1. Exchange of damaged certificates shall be carried out at no charge to the client. *See NDB Bylaws 2(vii)a.*
       1. Redemptions must be honored regardless of whether the holder of the certificate is the original person who deposited the silver, or a third party who has received the certificate via any means. When the certificate changes hands, the ownership of the silver changes hands.
       1. Silver selection for redemptions shall be carried out in favor of the bank, with sterling silver items being first, followed by 90% US coins and similar, followed by private mint rounds and bars, followed by government mint rounds and bars.
       1. Standard known weights and purities shall be used for redemptions, and a scale should be used to verify weights when necessary.  
