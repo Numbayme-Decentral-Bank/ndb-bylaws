@@ -14,7 +14,7 @@ Bylaws for the Numbayme Decentral Bank
       1. These governors will remain anonymous or eponymous to prevent unwanted intervention in bank operations, to meet our need for sovereignty and autonomy.
       1. The board of governors itself shall decide via majority vote to replace and appoint new governors as necessary.
    5. **Silver-Backed Certificates**
-      1. The NDB shall issue silver-backed certificates (SBC) of various denominations.
+      1. The NDB's primary purpose and activity shall be to issue and redeem silver-backed certificates (SBC) of various denominations.
       1. The design, denominations, and security features shall be explained elsewhere in these bylaws, which may link to a “NDB Certificate Technical Sheet,”  to help users establish that their certificates are genuine, with additional private technical sheets to help NDB personnel create the certificates.
    6. **Audits**
       1. An audit of physical silver holdings shall be done regularly by an independent community member.
