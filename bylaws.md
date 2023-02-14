@@ -1,5 +1,5 @@
 # ndb-bylaws-1.0
-Bylaws for the Numbayme Decentral Bank
+Bylaws for the Numbayme Decentral Bank 
 ﻿****Numbayme Decentral Bank****
 
 ***Bylaws***
