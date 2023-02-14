@@ -1,9 +1,8 @@
 # ndb-bylaws-1.0
 Bylaws for the Numbayme Decentral Bank 
 
-﻿****Numbayme Decentral Bank****
-
-***Bylaws***
+﻿
+**Bylaws**
 
 1. **Procedural Rules** 
    1. **Silver-Backed Certificates**
