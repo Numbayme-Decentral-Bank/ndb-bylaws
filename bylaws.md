@@ -40,12 +40,12 @@ Bylaws for the Numbayme Decentral Bank
       1. The physical silver that the bank possesses, that is allocated as backing the issued certificates, will be recorded on its balance sheet as a liability
       1. The bank is obligated to return this allocated silver to certificate holders in case of a valid redemption request
    10. **Exchange with fiat**
-      1. The Decentral Bank shall generally not engage in fiat currency transactions, with the primary exception being if it has silver on loan to be sold for fiat from a third party.
-      1. If a client holds silver certificates and wishes to exchange them for USD, they can be exchanged with any willing third party for USD.
-      1. If a client has silver and wishes to exchange with USD, the client can contact the Decentral Bank to see if there are any outstanding USD offers, otherwise the client can sell to any willing third party.
+       1. The Decentral Bank shall generally not engage in fiat currency transactions, with the primary exception being if it has silver on loan to be sold for fiat from a third party.
+       1. If a client holds silver certificates and wishes to exchange them for USD, they can be exchanged with any willing third party for USD.
+       1. If a client has silver and wishes to exchange with USD, the client can contact the Decentral Bank to see if there are any outstanding USD offers, otherwise the client can sell to any willing third party.
    11. **Additional Regulations**
-      1. The board of governors may change the bylaws with a majority vote.
-      1. Any changes to the bylaws must not defy the underlying sentiment behind the Decentral Bank charter document, nor may they contradict the charter.
+       1. The board of governors may change the bylaws with a majority vote.
+       1. Any changes to the bylaws must not defy the underlying sentiment behind the Decentral Bank charter document, nor may they contradict the charter.
 1. **Substantive Rules**
    1. **Recordkeeping**
       1. Records must be clear and concise.
